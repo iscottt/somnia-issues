@@ -1,2 +1,7 @@
-# somnia-issues
-theme somnia issues
+# somnia
+
+## 待办清单
+
+- 增加隐藏页脚主题版权的开关
+- Lite版本允许更换头像和修改资料
+
